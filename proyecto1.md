@@ -2,3 +2,4 @@
 <img width="1912" height="1018" alt="Captura1 seguridad" src="https://github.com/user-attachments/assets/4b26d1b6-84e4-450f-85dc-e49160181b87" />
 <img width="1917" height="630" alt="image" src="https://github.com/user-attachments/assets/50072bff-33e8-41f1-b856-30337ae2a054" />
 <img width="662" height="136" alt="image" src="https://github.com/user-attachments/assets/dd4413a3-cceb-467b-9ae0-fac186b1d562" />
+<img width="1194" height="966" alt="image" src="https://github.com/user-attachments/assets/70f90a67-db0c-4d64-a02e-04720dd23ec9" />
